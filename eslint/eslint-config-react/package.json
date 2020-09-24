@@ -1,6 +1,6 @@
 {
   "name": "@mbise1993/eslint-config-react",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "ESLint config for React and TypeScript",
   "author": "Matt Bise",
   "license": "MIT",
