@@ -4,6 +4,9 @@
   "description": "ESLint config for React and TypeScript",
   "author": "Matt Bise",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {},
   "dependencies": {
     "eslint-config-prettier": "^6.10.0"
