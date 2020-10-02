@@ -1,0 +1,34 @@
+{
+  "name": "@mbise1993/eslint-config-typescript",
+  "version": "0.1.2",
+  "description": "ESLint config for TypeScript",
+  "author": "Matt Bise",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {},
+  "dependencies": {
+    "eslint-config-prettier": "^6.10.0"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.2.0",
+    "@typescript-eslint/parser": "^4.2.0",
+    "eslint": "^7.0.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-sort-imports-es6-autofix": "^0.5.0",
+    "prettier": "^2.0.5",
+    "typescript": "^4.0.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.2.0",
+    "@typescript-eslint/parser": "^4.2.0",
+    "eslint": "^7.0.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-sort-imports-es6-autofix": "^0.5.0",
+    "prettier": "^2.0.5",
+    "typescript": "^4.0.3"
+  }
+}
