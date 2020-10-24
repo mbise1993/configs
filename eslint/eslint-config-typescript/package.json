@@ -1,6 +1,6 @@
 {
   "name": "@mbise1993/eslint-config-typescript",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "ESLint config for TypeScript",
   "author": "Matt Bise",
   "license": "MIT",
